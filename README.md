@@ -8,7 +8,11 @@ CloudNest is a responsive startup-style landing page designed using HTML and CSS
 
 ## 🔥 Live Website
 
-👉 http://43.205.206.77/
+👉 https://cloud-nest-landing-page.vercel.app/
+
+## ☁ Cloud Deployment (Learning Phase)
+
+Originally deployed on AWS EC2 using Apache HTTP Server with manual configuration and SSH-based deployment.
 
 ---
 
